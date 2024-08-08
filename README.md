@@ -156,4 +156,4 @@ No known bugs at this time.
 ## Authors
 * [AYOUB BAKHAT](https://github.com/AYOUBBAKHAT)
 
-Public Domain. No copy write protection. 
+## Feel free to explore and contribute to the project!
