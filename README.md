@@ -154,7 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-* [AYOUB BAKHAT](https://github.com/AYOUBBAKHAT) -  LinkedIn profile (https://www.linkedin.com/in/ayoub-bakhat-4283a9237/)
+* [AYOUB BAKHAT](https://github.com/AYOUBBAKHAT)
 
-## License
 Public Domain. No copy write protection. 
